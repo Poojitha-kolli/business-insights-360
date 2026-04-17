@@ -18,6 +18,8 @@ To develop an intuitive dashboard that consolidates key business metrics for exe
 - DAX language
 - DAX studio (for optimizing the report)
 
+---
+
 ## Highlights
 - Consolidated Business Insights: Developed dashboards for Finance, Sales, Marketing, Supply Chain, and Executive views to provide holistic insights into business performance.
 - Optimized Performance: Used DAX Studio to improve query performance, reducing report load time and enhancing user experience.
