@@ -1,7 +1,4 @@
 # Business-insights-360
-Business Insight 360 is a comprehensive analytics solution designed to provide key performance insights across multiple business domains, including Finance, Sales, Marketing, and Supply Chain.
-
-The project leverages Power BI for creating dynamic visualizations and utilizes DAX Studio for optimizing DAX queries and enhancing report performance.
 
 ## [Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjYwODUzZTMtNTY5OS00MmMyLTlmMTctYjFhM2Y3ZDQwMWFmIiwidCI6IjdhNzZlNWQ1LTdiMzEtNGRmNy1hYjUxLTU2MDk3OWQzMWJjZiJ9)
 
@@ -34,6 +31,8 @@ To develop an intuitive dashboard that consolidates key business metrics for exe
 
 ## Conclusion
 The Business Insight 360 project delivers a powerful, data-driven solution for business leaders, offering comprehensive insights into various aspects of company performance.
+
 By leveraging DAX Studio for query optimization, the dashboard ensures efficient performance, empowering users to make informed, data-backed decisions.
+
 This project showcases the ability to handle complex data sets, optimize performance, and create impactful visualizations for enterprise-wide analysis.
 
