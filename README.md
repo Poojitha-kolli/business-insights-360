@@ -31,7 +31,7 @@ To develop an intuitive dashboard that consolidates key business metrics for exe
 - User-friendly Filters: Dynamic filters for regions, customers, products, and time periods, allowing users to drill down into specific metrics and perform detailed comparisons.
 - Risk Management: Key performance indicators, such as forecast accuracy and risk profiles for excess inventory and out-of-stock issues, are tracked and analyzed for better supply chain management.
 
-  ---
+---
 
 ## Conclusion
 The Business Insight 360 project delivers a powerful, data-driven solution for business leaders, offering comprehensive insights into various aspects of company performance.
