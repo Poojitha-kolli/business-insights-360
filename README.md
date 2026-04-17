@@ -4,7 +4,7 @@ Business Insight 360 is a comprehensive analytics solution designed to provide k
 
 The project leverages Power BI for creating dynamic visualizations and utilizes DAX Studio for optimizing DAX queries and enhancing report performance.
 
-## 📌 Objective
+## Objective
 To develop an intuitive dashboard that consolidates key business metrics for executives and decision-makers, providing actionable insights into net sales, gross margins, customer performance, product analysis, and operational efficiency across regions and categories.
 
 ---
