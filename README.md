@@ -4,8 +4,10 @@ Business Insight 360 is a comprehensive analytics solution designed to provide k
 
 The project leverages Power BI for creating dynamic visualizations and utilizes DAX Studio for optimizing DAX queries and enhancing report performance.
 
-## Objective
+## 📌 Objective
 To develop an intuitive dashboard that consolidates key business metrics for executives and decision-makers, providing actionable insights into net sales, gross margins, customer performance, product analysis, and operational efficiency across regions and categories.
+
+---
 
 ## Highlights
 - Consolidated Business Insights: Developed dashboards for Finance, Sales, Marketing, Supply Chain, and Executive views to provide holistic insights into business performance.
@@ -17,6 +19,8 @@ To develop an intuitive dashboard that consolidates key business metrics for exe
 - Forecast Accuracy and Net Error Tracking: Implemented forecast accuracy metrics and net error tracking for the Supply Chain, helping mitigate inventory-related risks like excess stock and out-of-stock issues.
 - User-friendly Filters: Dynamic filters for regions, customers, products, and time periods, allowing users to drill down into specific metrics and perform detailed comparisons.
 - Risk Management: Key performance indicators, such as forecast accuracy and risk profiles for excess inventory and out-of-stock issues, are tracked and analyzed for better supply chain management.
+
+  ---
 
 ## Conclusion
 The Business Insight 360 project delivers a powerful, data-driven solution for business leaders, offering comprehensive insights into various aspects of company performance.
