@@ -1,6 +1,6 @@
 # Business-insights-360
 
-## [Interactive Dashboard Link <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/936d7994-a43a-423f-9c20-3f530792e5e9" />](https://app.powerbi.com/view?r=eyJrIjoiMjYwODUzZTMtNTY5OS00MmMyLTlmMTctYjFhM2Y3ZDQwMWFmIiwidCI6IjdhNzZlNWQ1LTdiMzEtNGRmNy1hYjUxLTU2MDk3OWQzMWJjZiJ9)
+## [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/936d7994-a43a-423f-9c20-3f530792e5e9"/>Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjYwODUzZTMtNTY5OS00MmMyLTlmMTctYjFhM2Y3ZDQwMWFmIiwidCI6IjdhNzZlNWQ1LTdiMzEtNGRmNy1hYjUxLTU2MDk3OWQzMWJjZiJ9)
 
 Business Insight 360 is a comprehensive analytics solution designed to provide key performance insights across multiple business domains, including Finance, Sales, Marketing, and Supply Chain.
 
